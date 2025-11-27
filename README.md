@@ -23,7 +23,7 @@ O objetivo é compreender vulnerabilidades de autenticação, explorar serviços
   <li>Metasploitable 2</li>
 </ul>
 
-![Fe](./images/ferramentas.JPG)
+![Fe](./images/ferramentas.png)
 <br><br>
 <ol>
   <h2><li>Descobrindo dispositivos ativos na rede</li></h2>
