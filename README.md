@@ -22,10 +22,11 @@ O objetivo é compreender vulnerabilidades de autenticação, explorar serviços
   <li>Medusa</li>
   <li>Metasploitable 2</li>
 </ul>
+
 ![Fe](ferramentas.JPG)
 <br>
 <ol>
-  <li><h3>Descobrindo dispositivos ativos na rede</h3></li>
+  <h3><li>Descobrindo dispositivos ativos na rede</li></h3>
   Para identificar quais máquinas estavam ativas na rede interna (Host-Only), utilizei o comando:<br>
   <br>
   
